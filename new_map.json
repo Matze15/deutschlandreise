@@ -1,0 +1,1166 @@
+{
+    "Flensburg": [
+        "Husum",
+        "Schleswig"
+    ],
+    "Husum": [
+        "Heide",
+        "Flensburg",
+        "Schleswig"
+    ],
+    "Schleswig": [
+        "Flensburg",
+        "Husum",
+        "Kiel",
+        "Rendsburg"
+    ],
+    "Heide": [
+        "Husum",
+        "Itzehoe"
+    ],
+    "Rendsburg": [
+        "Itzehoe",
+        "Neumünster",
+        "Schleswig"
+    ],
+    "Kiel": [
+        "Neumünster",
+        "Lübeck",
+        "Schleswig"
+    ],
+    "Neumünster": [
+        "Lübeck",
+        "Hamburg",
+        "Kiel",
+        "Rendsburg"
+    ],
+    "Itzehoe": [
+        "Heide",
+        "Rendsburg",
+        "Hamburg",
+        "Lübeck"
+    ],
+    "Lübeck": [
+        "Neumünster",
+        "Kiel",
+        "Itzehoe",
+        "Hamburg",
+        "Wismar"
+    ],
+    "Wismar": [
+        "Lübeck",
+        "Rostock",
+        "Schwerin"
+    ],
+    "Rostock": [
+        "Wismar",
+        "Stralsund",
+        "Güstrow"
+    ],
+    "Stralsund": [
+        "Greifswald",
+        "Saßnitz",
+        "Rostock"
+    ],
+    "Greifswald": [
+        "Stralsund",
+        "Neubrandenburg",
+        "Pasewalk"
+    ],
+    "Schwerin": [
+        "Ludwigslust",
+        "Wismar",
+        "Güstrow"
+    ],
+    "Güstrow": [
+        "Rostock",
+        "Schwerin",
+        "Neubrandenburg",
+        "Pritzwalk"
+    ],
+    "Saßnitz": [
+        "Stralsund"
+    ],
+    "Hamburg": [
+        "Lauenburg",
+        "Lüneburg",
+        "Soltau",
+        "Bremen",
+        "Stade",
+        "Lübeck",
+        "Neumünster",
+        "Itzehoe"
+    ],
+    "Stade": [
+        "Hamburg",
+        "Cuxhaven"
+    ],
+    "Cuxhaven": [
+        "Stade",
+        "Bremerhaven"
+    ],
+    "Bremerhaven": [
+        "Cuxhaven",
+        "Bremen"
+    ],
+    "Wilhelmshaven": [
+        "Oldenburg"
+    ],
+    "Oldenburg": [
+        "Wilhelmshaven",
+        "Bremen",
+        "Diepholz",
+        "Leer"
+    ],
+    "Leer": [
+        "Oldenburg",
+        "Rheine",
+        "Emden"
+    ],
+    "Emden": [
+        "Aurich",
+        "Leer",
+        "Norden"
+    ],
+    "Aurich": [
+        "Emden"
+    ],
+    "Norden": [
+        "Emden"
+    ],
+    "Bremen": [
+        "Oldenburg",
+        "Bremerhaven",
+        "Hamburg",
+        "Verden",
+        "Diepholz"
+    ],
+    "Neubrandenburg": [
+        "Güstrow",
+        "Greifswald",
+        "Neustrelitz",
+        "Prenzlau",
+        "Pasewalk"
+    ],
+    "Pasewalk": [
+        "Greifswald",
+        "Neubrandenburg",
+        "Stettin",
+        "Prenzlau"
+    ],
+    "Stettin": [
+        "Pasewalk",
+        "Prenzlau"
+    ],
+    "Prenzlau": [
+        "Berlin",
+        "Stettin",
+        "Pasewalk",
+        "Neubrandenburg"
+    ],
+    "Neustrelitz": [
+        "Neubrandenburg",
+        "Berlin"
+    ],
+    "Pritzwalk": [
+        "Güstrow",
+        "Berlin",
+        "Magdeburg",
+        "Perleberg"
+    ],
+    "Perleberg": [
+        "Stendal",
+        "Pritzwalk",
+        "Ludwigslust"
+    ],
+    "Ludwigslust": [
+        "Schwerin",
+        "Perleberg",
+        "Lauenburg",
+        "Ülzen"
+    ],
+    "Lauenburg": [
+        "Lüneburg",
+        "Ludwigslust",
+        "Hamburg"
+    ],
+    "Lüneburg": [
+        "Hamburg",
+        "Lauenburg",
+        "Ülzen"
+    ],
+    "Soltau": [
+        "Hamburg",
+        "Celle",
+        "Hannover"
+    ],
+    "Verden": [
+        "Bremen",
+        "Hannover",
+        "Nienburg"
+    ],
+    "Ülzen": [
+        "Lüneburg",
+        "Ludwigslust",
+        "Celle",
+        "Braunschweig"
+    ],
+    "Diepholz": [
+        "Oldenburg",
+        "Bremen",
+        "Osnabrück"
+    ],
+    "Nienburg": [
+        "Verden",
+        "Hannover",
+        "Minden"
+    ],
+    "Celle": [
+        "Soltau",
+        "Ülzen",
+        "Hannover"
+    ],
+    "Stendal": [
+        "Wolfsburg",
+        "Magdeburg",
+        "Perleberg"
+    ],
+    "Berlin": [
+        "Prenzlau",
+        "Neustrelitz",
+        "Pritzwalk",
+        "Potsdam",
+        "Dessau",
+        "Wittenberg",
+        "Dresden",
+        "Cottbus",
+        "Frankfurt/Oder"
+    ],
+    "Frankfurt/Oder": [
+        "Berlin",
+        "Cottbus"
+    ],
+    "Potsdam": [
+        "Berlin",
+        "Brandenburg"
+    ],
+    "Brandenburg": [
+        "Potsdam",
+        "Magdeburg"
+    ],
+    "Wolfsburg": [
+        "Stendal",
+        "Braunschweig"
+    ],
+    "Braunschweig": [
+        "Wolfsburg",
+        "Ülzen",
+        "Hildesheim",
+        "Salzgitter"
+    ],
+    "Salzgitter": [
+        "Goslar",
+        "Braunschweig"
+    ],
+    "Hildesheim": [
+        "Göttingen",
+        "Braunschweig",
+        "Hannover"
+    ],
+    "Hannover": [
+        "Celle",
+        "Soltau",
+        "Verden",
+        "Nienburg",
+        "Minden",
+        "Hildesheim",
+        "Hameln"
+    ],
+    "Minden": [
+        "Hannover",
+        "Nienburg",
+        "Osnabrück",
+        "Hameln",
+        "Bielefeld"
+    ],
+    "Osnabrück": [
+        "Bielefeld",
+        "Minden",
+        "Diepholz",
+        "Rheine"
+    ],
+    "Rheine": [
+        "Münster",
+        "Osnabrück",
+        "Leer"
+    ],
+    "Münster": [
+        "Bielefeld",
+        "Rheine",
+        "Hamm",
+        "Wesel",
+        "Dortmund"
+    ],
+    "Wesel": [
+        "Münster",
+        "Duisburg",
+        "Emmerich"
+    ],
+    "Emmerich": [
+        "Wesel",
+        "Kleve"
+    ],
+    "Kleve": [
+        "Emmerich",
+        "Krefeld"
+    ],
+    "Krefeld": [
+        "Duisburg",
+        "M.-Gladbach",
+        "Kleve"
+    ],
+    "Duisburg": [
+        "Krefeld",
+        "Wesel",
+        "Recklinghausen",
+        "Düsseldorf",
+        "Oberhausen",
+        "Mühlheim"
+    ],
+    "Oberhausen": [
+        "Duisburg",
+        "Mühlheim"
+    ],
+    "Mühlheim": [
+        "Wuppertal",
+        "Essen",
+        "Oberhausen",
+        "Duisburg"
+    ],
+    "Essen": [
+        "Gelsenkirchen",
+        "Mühlheim"
+    ],
+    "Gelsenkirchen": [
+        "Essen",
+        "Bochum"
+    ],
+    "Bochum": [
+        "Gelsenkirchen",
+        "Recklinghausen",
+        "Dortmund",
+        "Hagen",
+        "Wuppertal"
+    ],
+    "Recklinghausen": [
+        "Duisburg",
+        "Dortmund",
+        "Bochum"
+    ],
+    "Dortmund": [
+        "Hamm",
+        "Münster",
+        "Recklinghausen",
+        "Bochum",
+        "Hagen"
+    ],
+    "Hagen": [
+        "Dortmund",
+        "Bochum",
+        "Wuppertal",
+        "Siegen",
+        "Meschede"
+    ],
+    "Wuppertal": [
+        "Hagen",
+        "Bochum",
+        "Mühlheim",
+        "Düsseldorf",
+        "Solingen"
+    ],
+    "Solingen": [
+        "Wuppertal",
+        "Leverkusen"
+    ],
+    "Düsseldorf": [
+        "Wuppertal",
+        "Duisburg",
+        "M.-Gladbach",
+        "Leverkusen"
+    ],
+    "M.-Gladbach": [
+        "Aachen",
+        "Düsseldorf",
+        "Krefeld"
+    ],
+    "Leverkusen": [
+        "Solingen",
+        "Düsseldorf",
+        "Köln"
+    ],
+    "Aachen": [
+        "M.-Gladbach",
+        "Köln",
+        "Düren"
+    ],
+    "Düren": [
+        "Euskirchen",
+        "Köln",
+        "Aachen"
+    ],
+    "Köln": [
+        "Siegen",
+        "Siegburg",
+        "Bonn",
+        "Leverkusen",
+        "Euskirchen",
+        "Düren",
+        "Aachen"
+    ],
+    "Hamm": [
+        "Soest",
+        "Dortmund",
+        "Münster",
+        "Gütersloh"
+    ],
+    "Gütersloh": [
+        "Bielefeld",
+        "Hamm"
+    ],
+    "Bielefeld": [
+        "Minden",
+        "Osnabrück",
+        "Münster",
+        "Gütersloh",
+        "Paderborn"
+    ],
+    "Hameln": [
+        "Hannover",
+        "Minden",
+        "Paderborn",
+        "Kassel"
+    ],
+    "Paderborn": [
+        "Kassel",
+        "Soest",
+        "Bielefeld",
+        "Hameln"
+    ],
+    "Soest": [
+        "Hamm",
+        "Paderborn",
+        "Meschede"
+    ],
+    "Meschede": [
+        "Soest",
+        "Kassel",
+        "Hagen",
+        "Siegen"
+    ],
+    "Kassel": [
+        "Meschede",
+        "Paderborn",
+        "Hameln",
+        "Göttingen",
+        "Marburg",
+        "BadHersfeld"
+    ],
+    "Göttingen": [
+        "Hildesheim",
+        "Nordhausen",
+        "Kassel",
+        "Bebra"
+    ],
+    "Nordhausen": [
+        "Halberstadt",
+        "Goslar",
+        "Göttingen",
+        "Eisleben",
+        "Erfurt"
+    ],
+    "Goslar": [
+        "Salzgitter",
+        "Nordhausen"
+    ],
+    "Halberstadt": [
+        "Nordhausen",
+        "Magdeburg"
+    ],
+    "Magdeburg": [
+        "Stendal",
+        "Brandenburg",
+        "Dessau",
+        "Halle",
+        "Aschersleben",
+        "Halberstadt",
+        "Pritzwalk"
+    ],
+    "Aschersleben": [
+        "Eisleben",
+        "Magdeburg",
+        "Halle"
+    ],
+    "Eisleben": [
+        "Naumburg",
+        "Halle",
+        "Aschersleben",
+        "Nordhausen"
+    ],
+    "Dessau": [
+        "Wittenberg",
+        "Magdeburg",
+        "Berlin"
+    ],
+    "Wittenberg": [
+        "Torgau",
+        "Halle",
+        "Dessau",
+        "Berlin"
+    ],
+    "Cottbus": [
+        "Bautzen",
+        "Dresden",
+        "Frankfurt/Oder",
+        "Berlin"
+    ],
+    "Bautzen": [
+        "Cottbus",
+        "Dresden"
+    ],
+    "Torgau": [
+        "Wittenberg",
+        "Dresden",
+        "Leipzig"
+    ],
+    "Halle": [
+        "Wittenberg",
+        "Magdeburg",
+        "Aschersleben",
+        "Eisleben",
+        "Naumburg",
+        "Leipzig"
+    ],
+    "Leipzig": [
+        "Halle",
+        "Torgau",
+        "Meißen",
+        "Chemnitz",
+        "Gera",
+        "Naumburg"
+    ],
+    "Naumburg": [
+        "Eisleben",
+        "Halle",
+        "Leipzig",
+        "Jena"
+    ],
+    "Meißen": [
+        "Dresden",
+        "Leipzig"
+    ],
+    "Dresden": [
+        "Berlin",
+        "Cottbus",
+        "Bautzen",
+        "Torgau",
+        "Meißen",
+        "Freiberg"
+    ],
+    "Freiberg": [
+        "Dresden",
+        "Chemnitz"
+    ],
+    "Chemnitz": [
+        "Leipzig",
+        "Freiberg",
+        "Zwickau",
+        "Gera"
+    ],
+    "Gera": [
+        "Leipzig",
+        "Chemnitz",
+        "Plauen",
+        "Jena"
+    ],
+    "Jena": [
+        "Gera",
+        "Naumburg",
+        "Weimar",
+        "Saalfeld"
+    ],
+    "Weimar": [
+        "Erfurt",
+        "Jena"
+    ],
+    "Erfurt": [
+        "Nordhausen",
+        "Weimar",
+        "Gotha"
+    ],
+    "Gotha": [
+        "Erfurt",
+        "Eisenach"
+    ],
+    "Eisenach": [
+        "Gotha",
+        "Meiningen",
+        "BadHersfeld"
+    ],
+    "BadHersfeld": [
+        "Bebra",
+        "Kassel",
+        "Eisenach",
+        "Marburg",
+        "Fulda",
+        "Gießen"
+    ],
+    "Bebra": [
+        "BadHersfeld",
+        "Göttingen"
+    ],
+    "Marburg": [
+        "Kassel",
+        "BadHersfeld",
+        "Gießen",
+        "Siegen"
+    ],
+    "Siegen": [
+        "Marburg",
+        "Meschede",
+        "Hagen",
+        "Köln",
+        "Limburg",
+        "Gießen"
+    ],
+    "Siegburg": [
+        "Köln",
+        "Bonn",
+        "Limburg"
+    ],
+    "Bonn": [
+        "Andernach",
+        "Siegburg",
+        "Köln"
+    ],
+    "Euskirchen": [
+        "Köln",
+        "Düren",
+        "Andernach",
+        "Trier"
+    ],
+    "Trier": [
+        "Euskirchen",
+        "Koblenz",
+        "Bingen",
+        "Saarlouis"
+    ],
+    "Saarlouis": [
+        "Trier",
+        "Saarbrücken"
+    ],
+    "Saarbrücken": [
+        "Neunkirchen",
+        "Saarlouis",
+        "Pirmasens"
+    ],
+    "Pirmasens": [
+        "Saarbrücken",
+        "Landau"
+    ],
+    "Landau": [
+        "Pirmasens",
+        "Speyer",
+        "Karlsruhe"
+    ],
+    "Karlsruhe": [
+        "Landau",
+        "Pforzheim",
+        "Bruchsal",
+        "Baden-Baden"
+    ],
+    "Baden-Baden": [
+        "Karlsruhe",
+        "Kehl"
+    ],
+    "Kehl": [
+        "Freudenstadt",
+        "Baden-Baden",
+        "Offenburg"
+    ],
+    "Offenburg": [
+        "Kehl",
+        "Donaueschingen",
+        "Freiburg"
+    ],
+    "Freiburg": [
+        "Neustadt",
+        "Breisach",
+        "Offenburg",
+        "Lörrach"
+    ],
+    "Breisach": [
+        "Freiburg"
+    ],
+    "Lörrach": [
+        "Neustadt",
+        "Freiburg",
+        "Säckingen"
+    ],
+    "Säckingen": [
+        "Lörrach",
+        "Singen"
+    ],
+    "Singen": [
+        "Säckingen",
+        "Donaueschingen",
+        "Tuttlingen",
+        "Konstanz",
+        "Friedrichshafen"
+    ],
+    "Konstanz": [
+        "Singen",
+        "Friedrichshafen"
+    ],
+    "Friedrichshafen": [
+        "Konstanz",
+        "Singen",
+        "Ravensburg",
+        "Lindau"
+    ],
+    "Lindau": [
+        "Friedrichshafen",
+        "Memmingen",
+        "Kempten",
+        "Oberstdorf",
+        "Füssen"
+    ],
+    "Oberstdorf": [
+        "Lindau",
+        "Füssen"
+    ],
+    "Füssen": [
+        "Oberstdorf",
+        "Lindau",
+        "Kempten",
+        "Landsberg",
+        "Garmisch-Partenkirchen"
+    ],
+    "Garmisch-Partenkirchen": [
+        "Füssen",
+        "BadTölz",
+        "München"
+    ],
+    "BadTölz": [
+        "Garmisch-Partenkirchen",
+        "München",
+        "Rosenheim"
+    ],
+    "Rosenheim": [
+        "BadTölz",
+        "München",
+        "Traunstein"
+    ],
+    "Traunstein": [
+        "Rosenheim",
+        "Simbach"
+    ],
+    "Simbach": [
+        "Mühldorf",
+        "Landshut",
+        "Traunstein",
+        "Passau"
+    ],
+    "Passau": [
+        "Simbach",
+        "Straubing",
+        "Cham"
+    ],
+    "Cham": [
+        "Straubing",
+        "Passau",
+        "Weiden"
+    ],
+    "Weiden": [
+        "Cham",
+        "Regensburg",
+        "Nürnberg",
+        "Bayreuth"
+    ],
+    "Bayreuth": [
+        "Weiden",
+        "Nürnberg",
+        "Bamberg",
+        "Hof"
+    ],
+    "Hof": [
+        "Saalfeld",
+        "Plauen",
+        "Bamberg",
+        "Bayreuth"
+    ],
+    "Plauen": [
+        "Hof",
+        "Zwickau",
+        "Gera"
+    ],
+    "Zwickau": [
+        "Chemnitz",
+        "Plauen"
+    ],
+    "Saalfeld": [
+        "Jena",
+        "Hof",
+        "Coburg",
+        "Meiningen"
+    ],
+    "Meiningen": [
+        "Eisenach",
+        "Saalfeld",
+        "Fulda",
+        "Schweinfurt",
+        "Bamberg",
+        "Coburg"
+    ],
+    "Fulda": [
+        "BadHersfeld",
+        "Gießen",
+        "Offenbach",
+        "Würzburg",
+        "Schweinfurt",
+        "Bamberg",
+        "Meiningen"
+    ],
+    "Gießen": [
+        "Marburg",
+        "BadHersfeld",
+        "Fulda",
+        "Offenbach",
+        "Limburg",
+        "Siegen"
+    ],
+    "Limburg": [
+        "Gießen",
+        "Siegen",
+        "Siegburg",
+        "Koblenz",
+        "Frankfurt"
+    ],
+    "Andernach": [
+        "Bonn",
+        "Euskirchen",
+        "Koblenz"
+    ],
+    "Koblenz": [
+        "Trier",
+        "Andernach",
+        "Limburg",
+        "Wiesbaden"
+    ],
+    "Wiesbaden": [
+        "Koblenz",
+        "Frankfurt",
+        "Mainz"
+    ],
+    "Mainz": [
+        "Wiesbaden",
+        "Bingen",
+        "Worms"
+    ],
+    "Bingen": [
+        "Trier",
+        "Mainz"
+    ],
+    "Worms": [
+        "Mainz",
+        "Ludwigshafen",
+        "Kaiserslautern"
+    ],
+    "Kaiserslautern": [
+        "Worms",
+        "Neunkirchen"
+    ],
+    "Neunkirchen": [
+        "Saarbrücken",
+        "Kaiserslautern"
+    ],
+    "Ludwigshafen": [
+        "Worms",
+        "Mannheim",
+        "Speyer"
+    ],
+    "Mannheim": [
+        "Heidelberg",
+        "Ludwigshafen",
+        "Darmstadt"
+    ],
+    "Speyer": [
+        "Ludwigshafen",
+        "Landau"
+    ],
+    "Heidelberg": [
+        "Bruchsal",
+        "Heilbronn",
+        "Mannheim",
+        "Würzburg"
+    ],
+    "Bruchsal": [
+        "Karlsruhe",
+        "Heidelberg"
+    ],
+    "Heilbronn": [
+        "Schwäb.Hall",
+        "Würzburg",
+        "Stuttgart",
+        "Heidelberg"
+    ],
+    "Stuttgart": [
+        "Heilbronn",
+        "Schwäb.Hall",
+        "Esslingen",
+        "Tübingen",
+        "Pforzheim"
+    ],
+    "Pforzheim": [
+        "Karlsruhe",
+        "Stuttgart",
+        "Freudenstadt"
+    ],
+    "Freudenstadt": [
+        "Tübingen",
+        "Kehl",
+        "Pforzheim"
+    ],
+    "Tübingen": [
+        "Stuttgart",
+        "Reutlingen",
+        "Rottweil",
+        "Freudenstadt",
+        "Sigmaringen"
+    ],
+    "Esslingen": [
+        "Stuttgart",
+        "Göppingen"
+    ],
+    "Reutlingen": [
+        "Tübingen",
+        "Ulm"
+    ],
+    "Rottweil": [
+        "Tübingen",
+        "Donaueschingen"
+    ],
+    "Donaueschingen": [
+        "Offenburg",
+        "Neustadt",
+        "Singen",
+        "Tuttlingen",
+        "Rottweil"
+    ],
+    "Neustadt": [
+        "Freiburg",
+        "Donaueschingen",
+        "Lörrach"
+    ],
+    "Tuttlingen": [
+        "Donaueschingen",
+        "Singen",
+        "Sigmaringen"
+    ],
+    "Sigmaringen": [
+        "Ravensburg",
+        "Tuttlingen",
+        "Tübingen",
+        "Ulm"
+    ],
+    "Ravensburg": [
+        "Friedrichshafen",
+        "Ulm",
+        "Sigmaringen"
+    ],
+    "Memmingen": [
+        "Ulm",
+        "Kempten",
+        "Lindau",
+        "Landsberg"
+    ],
+    "Kempten": [
+        "Memmingen",
+        "Füssen",
+        "Lindau",
+        "Landsberg"
+    ],
+    "Landsberg": [
+        "Füssen",
+        "Kempten",
+        "Memmingen",
+        "Augsburg",
+        "München"
+    ],
+    "München": [
+        "Garmisch-Partenkirchen",
+        "BadTölz",
+        "Rosenheim",
+        "Mühldorf",
+        "Landshut",
+        "Regensburg",
+        "Ingolstadt",
+        "Augsburg",
+        "Landsberg"
+    ],
+    "Mühldorf": [
+        "München",
+        "Simbach"
+    ],
+    "Landshut": [
+        "München",
+        "Straubing",
+        "Regensburg",
+        "Simbach"
+    ],
+    "Straubing": [
+        "Passau",
+        "Cham",
+        "Landshut",
+        "Regensburg"
+    ],
+    "Regensburg": [
+        "München",
+        "Landshut",
+        "Straubing",
+        "Ingolstadt",
+        "Nürnberg",
+        "Weiden"
+    ],
+    "Nürnberg": [
+        "Bayreuth",
+        "Weiden",
+        "Regensburg",
+        "Ingolstadt",
+        "Weissenburg",
+        "Ansbach",
+        "Würzburg",
+        "Bamberg"
+    ],
+    "Bamberg": [
+        "Nürnberg",
+        "Bayreuth",
+        "Hof",
+        "Coburg",
+        "Meiningen",
+        "Fulda",
+        "Schweinfurt"
+    ],
+    "Coburg": [
+        "Saalfeld",
+        "Meiningen",
+        "Bamberg"
+    ],
+    "Schweinfurt": [
+        "Bamberg",
+        "Fulda",
+        "Meiningen",
+        "Würzburg"
+    ],
+    "Aschaffenburg": [
+        "Würzburg",
+        "Offenbach",
+        "Darmstadt"
+    ],
+    "Offenbach": [
+        "Fulda",
+        "Gießen",
+        "Frankfurt",
+        "Aschaffenburg"
+    ],
+    "Frankfurt": [
+        "Limburg",
+        "Wiesbaden",
+        "Darmstadt",
+        "Offenbach"
+    ],
+    "Darmstadt": [
+        "Frankfurt",
+        "Aschaffenburg",
+        "Mannheim"
+    ],
+    "Würzburg": [
+        "Fulda",
+        "Schweinfurt",
+        "Nürnberg",
+        "Ansbach",
+        "Schwäb.Hall",
+        "Heilbronn",
+        "Heidelberg",
+        "Aschaffenburg"
+    ],
+    "Schwäb.Hall": [
+        "Würzburg",
+        "Crailsheim",
+        "Aalen",
+        "Stuttgart",
+        "Heilbronn"
+    ],
+    "Göppingen": [
+        "Esslingen",
+        "Ulm",
+        "Aalen"
+    ],
+    "Ulm": [
+        "Göppingen",
+        "Donauwörth",
+        "Augsburg",
+        "Memmingen",
+        "Ravensburg",
+        "Sigmaringen",
+        "Reutlingen"
+    ],
+    "Augsburg": [
+        "München",
+        "Landsberg",
+        "Donauwörth",
+        "Ulm"
+    ],
+    "Donauwörth": [
+        "Weissenburg",
+        "Aalen",
+        "Ingolstadt",
+        "Augsburg",
+        "Ulm"
+    ],
+    "Ingolstadt": [
+        "München",
+        "Regensburg",
+        "Nürnberg",
+        "Weissenburg",
+        "Donauwörth"
+    ],
+    "Weissenburg": [
+        "Nürnberg",
+        "Ingolstadt",
+        "Donauwörth",
+        "Ansbach"
+    ],
+    "Ansbach": [
+        "Würzburg",
+        "Nürnberg",
+        "Weissenburg",
+        "Crailsheim",
+        "Rothenburg"
+    ],
+    "Rothenburg": [
+        "Ansbach",
+        "Crailsheim"
+    ],
+    "Crailsheim": [
+        "Ansbach",
+        "Aalen",
+        "Rothenburg",
+        "Schwäb.Hall"
+    ],
+    "Aalen": [
+        "Crailsheim",
+        "Schwäb.Hall",
+        "Göppingen",
+        "Donauwörth"
+    ]
+}
