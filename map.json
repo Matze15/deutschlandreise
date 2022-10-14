@@ -1,0 +1,1790 @@
+[
+    {
+        "name": "Flensburg",
+        "connections": [
+            "Husum",
+            "Schleswig"
+        ]
+    },
+    {
+        "name": "Husum",
+        "connections": [
+            "Heide",
+            "Flensburg",
+            "Schleswig"
+        ]
+    },
+    {
+        "name": "Schleswig",
+        "connections": [
+            "Flensburg",
+            "Husum",
+            "Kiel",
+            "Rendsburg"
+        ]
+    },
+    {
+        "name": "Heide",
+        "connections": [
+            "Husum",
+            "Itzehoe"
+        ]
+    },
+    {
+        "name": "Rendsburg",
+        "connections": [
+            "Itzehoe",
+            "Neumünster",
+            "Schleswig"
+        ]
+    },
+    {
+        "name": "Kiel",
+        "connections": [
+            "Neumünster",
+            "Lübeck",
+            "Schleswig"
+        ]
+    },
+    {
+        "name": "Neumünster",
+        "connections": [
+            "Lübeck",
+            "Hamburg",
+            "Kiel",
+            "Rendsburg"
+        ]
+    },
+    {
+        "name": "Itzehoe",
+        "connections": [
+            "Heide",
+            "Rendsburg",
+            "Hamburg",
+            "Lübeck"
+        ]
+    },
+    {
+        "name": "Lübeck",
+        "connections": [
+            "Neumünster",
+            "Kiel",
+            "Itzehoe",
+            "Hamburg",
+            "Wismar"
+        ]
+    },
+    {
+        "name": "Wismar",
+        "connections": [
+            "Lübeck",
+            "Rostock",
+            "Schwerin"
+        ]
+    },
+    {
+        "name": "Rostock",
+        "connections": [
+            "Wismar",
+            "Stralsund",
+            "Güstrow"
+        ]
+    },
+    {
+        "name": "Stralsund",
+        "connections": [
+            "Greifswald",
+            "Saßnitz",
+            "Rostock"
+        ]
+    },
+    {
+        "name": "Greifswald",
+        "connections": [
+            "Stralsund",
+            "Neubrandenburg",
+            "Pasewalk"
+        ]
+    },
+    {
+        "name": "Schwerin",
+        "connections": [
+            "Ludwigslust",
+            "Wismar",
+            "Güstrow"
+        ]
+    },
+    {
+        "name": "Güstrow",
+        "connections": [
+            "Rostock",
+            "Schwerin",
+            "Neubrandenburg",
+            "Pritzwalk"
+        ]
+    },
+    {
+        "name": "Saßnitz",
+        "connections": [
+            "Stralsund"
+        ]
+    },
+    {
+        "name": "Hamburg",
+        "connections": [
+            "Lauenburg",
+            "Lüneburg",
+            "Soltau",
+            "Bremen",
+            "Stade",
+            "Lübeck",
+            "Neumünster",
+            "Itzehoe"
+        ]
+    },
+    {
+        "name": "Stade",
+        "connections": [
+            "Hamburg",
+            "Cuxhaven"
+        ]
+    },
+    {
+        "name": "Cuxhaven",
+        "connections": [
+            "Stade",
+            "Bremerhaven"
+        ]
+    },
+    {
+        "name": "Bremerhaven",
+        "connections": [
+            "Cuxhaven",
+            "Bremen"
+        ]
+    },
+    {
+        "name": "Wilhelmshaven",
+        "connections": [
+            "Oldenburg"
+        ]
+    },
+    {
+        "name": "Oldenburg",
+        "connections": [
+            "Wilhelmshaven",
+            "Bremen",
+            "Diepholz",
+            "Leer"
+        ]
+    },
+    {
+        "name": "Leer",
+        "connections": [
+            "Oldenburg",
+            "Rheine",
+            "Emden"
+        ]
+    },
+    {
+        "name": "Emden",
+        "connections": [
+            "Aurich",
+            "Leer",
+            "Norden"
+        ]
+    },
+    {
+        "name": "Aurich",
+        "connections": [
+            "Emden"
+        ]
+    },
+    {
+        "name": "Norden",
+        "connections": [
+            "Emden"
+        ]
+    },
+    {
+        "name": "Bremen",
+        "connections": [
+            "Oldenburg",
+            "Bremerhaven",
+            "Hamburg",
+            "Verden",
+            "Diepholz"
+        ]
+    },
+    {
+        "name": "Neubrandenburg",
+        "connections": [
+            "Güstrow",
+            "Greifswald",
+            "Neustrelitz",
+            "Prenzlau",
+            "Pasewalk"
+        ]
+    },
+    {
+        "name": "Pasewalk",
+        "connections": [
+            "Greifswald",
+            "Neubrandenburg",
+            "Stettin",
+            "Prenzlau"
+        ]
+    },
+    {
+        "name": "Stettin",
+        "connections": [
+            "Pasewalk",
+            "Prenzlau"
+        ]
+    },
+    {
+        "name": "Prenzlau",
+        "connections": [
+            "Berlin",
+            "Stettin",
+            "Pasewalk",
+            "Neubrandenburg"
+        ]
+    },
+    {
+        "name": "Neustrelitz",
+        "connections": [
+            "Neubrandenburg",
+            "Berlin"
+        ]
+    },
+    {
+        "name": "Pritzwalk",
+        "connections": [
+            "Güstrow",
+            "Berlin",
+            "Magdeburg",
+            "Perleberg"
+        ]
+    },
+    {
+        "name": "Perleberg",
+        "connections": [
+            "Stendal",
+            "Pritzwalk",
+            "Ludwigslust"
+        ]
+    },
+    {
+        "name": "Ludwigslust",
+        "connections": [
+            "Schwerin",
+            "Perleberg",
+            "Lauenburg",
+            "Ülzen"
+        ]
+    },
+    {
+        "name": "Lauenburg",
+        "connections": [
+            "Lüneburg",
+            "Ludwigslust",
+            "Hamburg"
+        ]
+    },
+    {
+        "name": "Lüneburg",
+        "connections": [
+            "Hamburg",
+            "Lauenburg",
+            "Ülzen"
+        ]
+    },
+    {
+        "name": "Soltau",
+        "connections": [
+            "Hamburg",
+            "Celle",
+            "Hannover"
+        ]
+    },
+    {
+        "name": "Verden",
+        "connections": [
+            "Bremen",
+            "Hannover",
+            "Nienburg"
+        ]
+    },
+    {
+        "name": "Ülzen",
+        "connections": [
+            "Lüneburg",
+            "Ludwigslust",
+            "Celle",
+            "Braunschweig"
+        ]
+    },
+    {
+        "name": "Diepholz",
+        "connections": [
+            "Oldenburg",
+            "Bremen",
+            "Osnabrück"
+        ]
+    },
+    {
+        "name": "Nienburg",
+        "connections": [
+            "Verden",
+            "Hannover",
+            "Minden"
+        ]
+    },
+    {
+        "name": "Celle",
+        "connections": [
+            "Soltau",
+            "Ülzen",
+            "Hannover"
+        ]
+    },
+    {
+        "name": "Stendal",
+        "connections": [
+            "Wolfsburg",
+            "Magdeburg",
+            "Perleberg"
+        ]
+    },
+    {
+        "name": "Berlin",
+        "connections": [
+            "Prenzlau",
+            "Neustrelitz",
+            "Pritzwalk",
+            "Potsdam",
+            "Dessau",
+            "Wittenberg",
+            "Dresden",
+            "Cottbus",
+            "Frankfurt/Oder"
+        ]
+    },
+    {
+        "name": "Frankfurt/Oder",
+        "connections": [
+            "Berlin",
+            "Cottbus"
+        ]
+    },
+    {
+        "name": "Potsdam",
+        "connections": [
+            "Berlin",
+            "Brandenburg"
+        ]
+    },
+    {
+        "name": "Brandenburg",
+        "connections": [
+            "Potsdam",
+            "Magdeburg"
+        ]
+    },
+    {
+        "name": "Wolfsburg",
+        "connections": [
+            "Stendal",
+            "Braunschweig"
+        ]
+    },
+    {
+        "name": "Braunschweig",
+        "connections": [
+            "Wolfsburg",
+            "Ülzen",
+            "Hildesheim",
+            "Salzgitter"
+        ]
+    },
+    {
+        "name": "Salzgitter",
+        "connections": [
+            "Goslar",
+            "Braunschweig"
+        ]
+    },
+    {
+        "name": "Hildesheim",
+        "connections": [
+            "Göttingen",
+            "Braunschweig",
+            "Hannover"
+        ]
+    },
+    {
+        "name": "Hannover",
+        "connections": [
+            "Celle",
+            "Soltau",
+            "Verden",
+            "Nienburg",
+            "Minden",
+            "Hildesheim",
+            "Hameln"
+        ]
+    },
+    {
+        "name": "Minden",
+        "connections": [
+            "Hannover",
+            "Nienburg",
+            "Osnabrück",
+            "Hameln",
+            "Bielefeld"
+        ]
+    },
+    {
+        "name": "Osnabrück",
+        "connections": [
+            "Bielefeld",
+            "Minden",
+            "Diepholz",
+            "Rheine"
+        ]
+    },
+    {
+        "name": "Rheine",
+        "connections": [
+            "Münster",
+            "Osnabrück",
+            "Leer"
+        ]
+    },
+    {
+        "name": "Münster",
+        "connections": [
+            "Bielefeld",
+            "Rheine",
+            "Hamm",
+            "Wesel",
+            "Dortmund"
+        ]
+    },
+    {
+        "name": "Wesel",
+        "connections": [
+            "Münster",
+            "Duisburg",
+            "Emmerich"
+        ]
+    },
+    {
+        "name": "Emmerich",
+        "connections": [
+            "Wesel",
+            "Kleve"
+        ]
+    },
+    {
+        "name": "Kleve",
+        "connections": [
+            "Emmerich",
+            "Krefeld"
+        ]
+    },
+    {
+        "name": "Krefeld",
+        "connections": [
+            "Duisburg",
+            "M.-Gladbach",
+            "Kleve"
+        ]
+    },
+    {
+        "name": "Duisburg",
+        "connections": [
+            "Krefeld",
+            "Wesel",
+            "Recklinghausen",
+            "Düsseldorf",
+            "Oberhausen",
+            "Mühlheim"
+        ]
+    },
+    {
+        "name": "Oberhausen",
+        "connections": [
+            "Duisburg",
+            "Mühlheim"
+        ]
+    },
+    {
+        "name": "Mühlheim",
+        "connections": [
+            "Wuppertal",
+            "Essen",
+            "Oberhausen",
+            "Duisburg"
+        ]
+    },
+    {
+        "name": "Essen",
+        "connections": [
+            "Gelsenkirchen",
+            "Mühlheim"
+        ]
+    },
+    {
+        "name": "Gelsenkirchen",
+        "connections": [
+            "Essen",
+            "Bochum"
+        ]
+    },
+    {
+        "name": "Bochum",
+        "connections": [
+            "Gelsenkirchen",
+            "Recklinghausen",
+            "Dortmund",
+            "Hagen",
+            "Wuppertal"
+        ]
+    },
+    {
+        "name": "Recklinghausen",
+        "connections": [
+            "Duisburg",
+            "Dortmund",
+            "Bochum"
+        ]
+    },
+    {
+        "name": "Dortmund",
+        "connections": [
+            "Hamm",
+            "Münster",
+            "Recklinghausen",
+            "Bochum",
+            "Hagen"
+        ]
+    },
+    {
+        "name": "Hagen",
+        "connections": [
+            "Dortmund",
+            "Bochum",
+            "Wuppertal",
+            "Siegen",
+            "Meschede"
+        ]
+    },
+    {
+        "name": "Wuppertal",
+        "connections": [
+            "Hagen",
+            "Bochum",
+            "Mühlheim",
+            "Düsseldorf",
+            "Solingen"
+        ]
+    },
+    {
+        "name": "Solingen",
+        "connections": [
+            "Wuppertal",
+            "Leverkusen"
+        ]
+    },
+    {
+        "name": "Düsseldorf",
+        "connections": [
+            "Wuppertal",
+            "Duisburg",
+            "M.-Gladbach",
+            "Leverkusen"
+        ]
+    },
+    {
+        "name": "M.-Gladbach",
+        "connections": [
+            "Aachen",
+            "Düsseldorf",
+            "Krefeld"
+        ]
+    },
+    {
+        "name": "Leverkusen",
+        "connections": [
+            "Solingen",
+            "Düsseldorf",
+            "Köln"
+        ]
+    },
+    {
+        "name": "Aachen",
+        "connections": [
+            "M.-Gladbach",
+            "Köln",
+            "Düren"
+        ]
+    },
+    {
+        "name": "Düren",
+        "connections": [
+            "Euskirchen",
+            "Köln",
+            "Aachen"
+        ]
+    },
+    {
+        "name": "Köln",
+        "connections": [
+            "Siegen",
+            "Siegburg",
+            "Bonn",
+            "Leverkusen",
+            "Euskirchen",
+            "Düren",
+            "Aachen"
+        ]
+    },
+    {
+        "name": "Hamm",
+        "connections": [
+            "Soest",
+            "Dortmund",
+            "Münster",
+            "Gütersloh"
+        ]
+    },
+    {
+        "name": "Gütersloh",
+        "connections": [
+            "Bielefeld",
+            "Hamm"
+        ]
+    },
+    {
+        "name": "Bielefeld",
+        "connections": [
+            "Minden",
+            "Osnabrück",
+            "Münster",
+            "Gütersloh",
+            "Paderborn"
+        ]
+    },
+    {
+        "name": "Hameln",
+        "connections": [
+            "Hannover",
+            "Minden",
+            "Paderborn",
+            "Kassel"
+        ]
+    },
+    {
+        "name": "Paderborn",
+        "connections": [
+            "Kassel",
+            "Soest",
+            "Bielefeld",
+            "Hameln"
+        ]
+    },
+    {
+        "name": "Soest",
+        "connections": [
+            "Hamm",
+            "Paderborn",
+            "Meschede"
+        ]
+    },
+    {
+        "name": "Meschede",
+        "connections": [
+            "Soest",
+            "Kassel",
+            "Hagen",
+            "Siegen"
+        ]
+    },
+    {
+        "name": "Kassel",
+        "connections": [
+            "Meschede",
+            "Paderborn",
+            "Hameln",
+            "Göttingen",
+            "Marburg",
+            "BadHersfeld"
+        ]
+    },
+    {
+        "name": "Göttingen",
+        "connections": [
+            "Hildesheim",
+            "Nordhausen",
+            "Kassel",
+            "Bebra"
+        ]
+    },
+    {
+        "name": "Nordhausen",
+        "connections": [
+            "Halberstadt",
+            "Goslar",
+            "Göttingen",
+            "Eisleben",
+            "Erfurt"
+        ]
+    },
+    {
+        "name": "Goslar",
+        "connections": [
+            "Salzgitter",
+            "Nordhausen"
+        ]
+    },
+    {
+        "name": "Halberstadt",
+        "connections": [
+            "Nordhausen",
+            "Magdeburg"
+        ]
+    },
+    {
+        "name": "Magdeburg",
+        "connections": [
+            "Stendal",
+            "Brandenburg",
+            "Dessau",
+            "Halle",
+            "Aschersleben",
+            "Halberstadt",
+            "Pritzwalk"
+        ]
+    },
+    {
+        "name": "Aschersleben",
+        "connections": [
+            "Eisleben",
+            "Magdeburg",
+            "Halle"
+        ]
+    },
+    {
+        "name": "Eisleben",
+        "connections": [
+            "Naumburg",
+            "Halle",
+            "Aschersleben",
+            "Nordhausen"
+        ]
+    },
+    {
+        "name": "Dessau",
+        "connections": [
+            "Wittenberg",
+            "Magdeburg",
+            "Berlin"
+        ]
+    },
+    {
+        "name": "Wittenberg",
+        "connections": [
+            "Torgau",
+            "Halle",
+            "Dessau",
+            "Berlin"
+        ]
+    },
+    {
+        "name": "Cottbus",
+        "connections": [
+            "Bautzen",
+            "Dresden",
+            "Frankfurt/Oder",
+            "Berlin"
+        ]
+    },
+    {
+        "name": "Bautzen",
+        "connections": [
+            "Cottbus",
+            "Dresden"
+        ]
+    },
+    {
+        "name": "Torgau",
+        "connections": [
+            "Wittenberg",
+            "Dresden",
+            "Leipzig"
+        ]
+    },
+    {
+        "name": "Halle",
+        "connections": [
+            "Wittenberg",
+            "Magdeburg",
+            "Aschersleben",
+            "Eisleben",
+            "Naumburg",
+            "Leipzig"
+        ]
+    },
+    {
+        "name": "Leipzig",
+        "connections": [
+            "Halle",
+            "Torgau",
+            "Meißen",
+            "Chemnitz",
+            "Gera",
+            "Naumburg"
+        ]
+    },
+    {
+        "name": "Naumburg",
+        "connections": [
+            "Eisleben",
+            "Halle",
+            "Leipzig",
+            "Jena"
+        ]
+    },
+    {
+        "name": "Meißen",
+        "connections": [
+            "Dresden",
+            "Leipzig"
+        ]
+    },
+    {
+        "name": "Dresden",
+        "connections": [
+            "Berlin",
+            "Cottbus",
+            "Bautzen",
+            "Torgau",
+            "Meißen",
+            "Freiberg"
+        ]
+    },
+    {
+        "name": "Freiberg",
+        "connections": [
+            "Dresden",
+            "Chemnitz"
+        ]
+    },
+    {
+        "name": "Chemnitz",
+        "connections": [
+            "Leipzig",
+            "Freiberg",
+            "Zwickau",
+            "Gera"
+        ]
+    },
+    {
+        "name": "Gera",
+        "connections": [
+            "Leipzig",
+            "Chemnitz",
+            "Plauen",
+            "Jena"
+        ]
+    },
+    {
+        "name": "Jena",
+        "connections": [
+            "Gera",
+            "Naumburg",
+            "Weimar",
+            "Saalfeld"
+        ]
+    },
+    {
+        "name": "Weimar",
+        "connections": [
+            "Erfurt",
+            "Jena"
+        ]
+    },
+    {
+        "name": "Erfurt",
+        "connections": [
+            "Nordhausen",
+            "Weimar",
+            "Gotha"
+        ]
+    },
+    {
+        "name": "Gotha",
+        "connections": [
+            "Erfurt",
+            "Eisenach"
+        ]
+    },
+    {
+        "name": "Eisenach",
+        "connections": [
+            "Gotha",
+            "Meiningen",
+            "BadHersfeld"
+        ]
+    },
+    {
+        "name": "BadHersfeld",
+        "connections": [
+            "Bebra",
+            "Kassel",
+            "Eisenach",
+            "Marburg",
+            "Fulda",
+            "Gießen"
+        ]
+    },
+    {
+        "name": "Bebra",
+        "connections": [
+            "BadHersfeld",
+            "Göttingen"
+        ]
+    },
+    {
+        "name": "Marburg",
+        "connections": [
+            "Kassel",
+            "BadHersfeld",
+            "Gießen",
+            "Siegen"
+        ]
+    },
+    {
+        "name": "Siegen",
+        "connections": [
+            "Marburg",
+            "Meschede",
+            "Hagen",
+            "Köln",
+            "Limburg",
+            "Gießen"
+        ]
+    },
+    {
+        "name": "Siegburg",
+        "connections": [
+            "Köln",
+            "Bonn",
+            "Limburg"
+        ]
+    },
+    {
+        "name": "Bonn",
+        "connections": [
+            "Andernach",
+            "Siegburg",
+            "Köln"
+        ]
+    },
+    {
+        "name": "Euskirchen",
+        "connections": [
+            "Köln",
+            "Düren",
+            "Andernach",
+            "Trier"
+        ]
+    },
+    {
+        "name": "Trier",
+        "connections": [
+            "Euskirchen",
+            "Koblenz",
+            "Bingen",
+            "Saarlouis"
+        ]
+    },
+    {
+        "name": "Saarlouis",
+        "connections": [
+            "Trier",
+            "Saarbrücken"
+        ]
+    },
+    {
+        "name": "Saarbrücken",
+        "connections": [
+            "Neunkirchen",
+            "Saarlouis",
+            "Pirmasens"
+        ]
+    },
+    {
+        "name": "Pirmasens",
+        "connections": [
+            "Saarbrücken",
+            "Landau"
+        ]
+    },
+    {
+        "name": "Landau",
+        "connections": [
+            "Pirmasens",
+            "Speyer",
+            "Karlsruhe"
+        ]
+    },
+    {
+        "name": "Karlsruhe",
+        "connections": [
+            "Landau",
+            "Pforzheim",
+            "Bruchsal",
+            "Baden-Baden"
+        ]
+    },
+    {
+        "name": "Baden-Baden",
+        "connections": [
+            "Karlsruhe",
+            "Kehl"
+        ]
+    },
+    {
+        "name": "Kehl",
+        "connections": [
+            "Freudenstadt",
+            "Baden-Baden",
+            "Offenburg"
+        ]
+    },
+    {
+        "name": "Offenburg",
+        "connections": [
+            "Kehl",
+            "Donaueschingen",
+            "Freiburg"
+        ]
+    },
+    {
+        "name": "Freiburg",
+        "connections": [
+            "Neustadt",
+            "Breisach",
+            "Offenburg",
+            "Lörrach"
+        ]
+    },
+    {
+        "name": "Breisach",
+        "connections": [
+            "Freiburg"
+        ]
+    },
+    {
+        "name": "Lörrach",
+        "connections": [
+            "Neustadt",
+            "Freiburg",
+            "Säckingen"
+        ]
+    },
+    {
+        "name": "Säckingen",
+        "connections": [
+            "Lörrach",
+            "Singen"
+        ]
+    },
+    {
+        "name": "Singen",
+        "connections": [
+            "Säckingen",
+            "Donaueschingen",
+            "Tuttlingen",
+            "Konstanz",
+            "Friedrichshafen"
+        ]
+    },
+    {
+        "name": "Konstanz",
+        "connections": [
+            "Singen",
+            "Friedrichshafen"
+        ]
+    },
+    {
+        "name": "Friedrichshafen",
+        "connections": [
+            "Konstanz",
+            "Singen",
+            "Ravensburg",
+            "Lindau"
+        ]
+    },
+    {
+        "name": "Lindau",
+        "connections": [
+            "Friedrichshafen",
+            "Memmingen",
+            "Kempten",
+            "Oberstdorf",
+            "Füssen"
+        ]
+    },
+    {
+        "name": "Oberstdorf",
+        "connections": [
+            "Lindau",
+            "Füssen"
+        ]
+    },
+    {
+        "name": "Füssen",
+        "connections": [
+            "Oberstdorf",
+            "Lindau",
+            "Kempten",
+            "Landsberg",
+            "Garmisch-Partenkirchen"
+        ]
+    },
+    {
+        "name": "Garmisch-Partenkirchen",
+        "connections": [
+            "Füssen",
+            "BadTölz",
+            "München"
+        ]
+    },
+    {
+        "name": "BadTölz",
+        "connections": [
+            "Garmisch-Partenkirchen",
+            "München",
+            "Rosenheim"
+        ]
+    },
+    {
+        "name": "Rosenheim",
+        "connections": [
+            "BadTölz",
+            "München",
+            "Traunstein"
+        ]
+    },
+    {
+        "name": "Traunstein",
+        "connections": [
+            "Rosenheim",
+            "Simbach"
+        ]
+    },
+    {
+        "name": "Simbach",
+        "connections": [
+            "Mühldorf",
+            "Landshut",
+            "Traunstein",
+            "Passau"
+        ]
+    },
+    {
+        "name": "Passau",
+        "connections": [
+            "Simbach",
+            "Straubing",
+            "Cham"
+        ]
+    },
+    {
+        "name": "Cham",
+        "connections": [
+            "Straubing",
+            "Passau",
+            "Weiden"
+        ]
+    },
+    {
+        "name": "Weiden",
+        "connections": [
+            "Cham",
+            "Regensburg",
+            "Nürnberg",
+            "Bayreuth"
+        ]
+    },
+    {
+        "name": "Bayreuth",
+        "connections": [
+            "Weiden",
+            "Nürnberg",
+            "Bamberg",
+            "Hof"
+        ]
+    },
+    {
+        "name": "Hof",
+        "connections": [
+            "Saalfeld",
+            "Plauen",
+            "Bamberg",
+            "Bayreuth"
+        ]
+    },
+    {
+        "name": "Plauen",
+        "connections": [
+            "Hof",
+            "Zwickau",
+            "Gera"
+        ]
+    },
+    {
+        "name": "Zwickau",
+        "connections": [
+            "Chemnitz",
+            "Plauen"
+        ]
+    },
+    {
+        "name": "Saalfeld",
+        "connections": [
+            "Jena",
+            "Hof",
+            "Coburg",
+            "Meiningen"
+        ]
+    },
+    {
+        "name": "Meiningen",
+        "connections": [
+            "Eisenach",
+            "Saalfeld",
+            "Fulda",
+            "Schweinfurt",
+            "Bamberg",
+            "Coburg"
+        ]
+    },
+    {
+        "name": "Fulda",
+        "connections": [
+            "BadHersfeld",
+            "Gießen",
+            "Offenbach",
+            "Würzburg",
+            "Schweinfurt",
+            "Bamberg",
+            "Meiningen"
+        ]
+    },
+    {
+        "name": "Gießen",
+        "connections": [
+            "Marburg",
+            "BadHersfeld",
+            "Fulda",
+            "Offenbach",
+            "Limburg",
+            "Siegen"
+        ]
+    },
+    {
+        "name": "Limburg",
+        "connections": [
+            "Gießen",
+            "Siegen",
+            "Siegburg",
+            "Koblenz",
+            "Frankfurt"
+        ]
+    },
+    {
+        "name": "Andernach",
+        "connections": [
+            "Bonn",
+            "Euskirchen",
+            "Koblenz"
+        ]
+    },
+    {
+        "name": "Koblenz",
+        "connections": [
+            "Trier",
+            "Andernach",
+            "Limburg",
+            "Wiesbaden"
+        ]
+    },
+    {
+        "name": "Wiesbaden",
+        "connections": [
+            "Koblenz",
+            "Frankfurt",
+            "Mainz"
+        ]
+    },
+    {
+        "name": "Mainz",
+        "connections": [
+            "Wiesbaden",
+            "Bingen",
+            "Worms"
+        ]
+    },
+    {
+        "name": "Bingen",
+        "connections": [
+            "Trier",
+            "Mainz"
+        ]
+    },
+    {
+        "name": "Worms",
+        "connections": [
+            "Mainz",
+            "Ludwigshafen",
+            "Kaiserslautern"
+        ]
+    },
+    {
+        "name": "Kaiserslautern",
+        "connections": [
+            "Worms",
+            "Neunkirchen"
+        ]
+    },
+    {
+        "name": "Neunkirchen",
+        "connections": [
+            "Saarbrücken",
+            "Kaiserslautern"
+        ]
+    },
+    {
+        "name": "Ludwigshafen",
+        "connections": [
+            "Worms",
+            "Mannheim",
+            "Speyer"
+        ]
+    },
+    {
+        "name": "Mannheim",
+        "connections": [
+            "Heidelberg",
+            "Ludwigshafen",
+            "Darmstadt"
+        ]
+    },
+    {
+        "name": "Speyer",
+        "connections": [
+            "Ludwigshafen",
+            "Landau"
+        ]
+    },
+    {
+        "name": "Heidelberg",
+        "connections": [
+            "Bruchsal",
+            "Heilbronn",
+            "Mannheim",
+            "Würzburg"
+        ]
+    },
+    {
+        "name": "Bruchsal",
+        "connections": [
+            "Karlsruhe",
+            "Heidelberg"
+        ]
+    },
+    {
+        "name": "Heilbronn",
+        "connections": [
+            "Schwäb.Hall",
+            "Würzburg",
+            "Stuttgart",
+            "Heidelberg"
+        ]
+    },
+    {
+        "name": "Stuttgart",
+        "connections": [
+            "Heilbronn",
+            "Schwäb.Hall",
+            "Esslingen",
+            "Tübingen",
+            "Pforzheim"
+        ]
+    },
+    {
+        "name": "Pforzheim",
+        "connections": [
+            "Karlsruhe",
+            "Stuttgart",
+            "Freudenstadt"
+        ]
+    },
+    {
+        "name": "Freudenstadt",
+        "connections": [
+            "Tübingen",
+            "Kehl",
+            "Pforzheim"
+        ]
+    },
+    {
+        "name": "Tübingen",
+        "connections": [
+            "Stuttgart",
+            "Reutlingen",
+            "Rottweil",
+            "Freudenstadt",
+            "Sigmaringen"
+        ]
+    },
+    {
+        "name": "Esslingen",
+        "connections": [
+            "Stuttgart",
+            "Göppingen"
+        ]
+    },
+    {
+        "name": "Reutlingen",
+        "connections": [
+            "Tübingen",
+            "Ulm"
+        ]
+    },
+    {
+        "name": "Rottweil",
+        "connections": [
+            "Tübingen",
+            "Donaueschingen"
+        ]
+    },
+    {
+        "name": "Donaueschingen",
+        "connections": [
+            "Offenburg",
+            "Neustadt",
+            "Singen",
+            "Tuttlingen",
+            "Rottweil"
+        ]
+    },
+    {
+        "name": "Neustadt",
+        "connections": [
+            "Freiburg",
+            "Donaueschingen",
+            "Lörrach"
+        ]
+    },
+    {
+        "name": "Tuttlingen",
+        "connections": [
+            "Donaueschingen",
+            "Singen",
+            "Sigmaringen"
+        ]
+    },
+    {
+        "name": "Sigmaringen",
+        "connections": [
+            "Ravensburg",
+            "Tuttlingen",
+            "Tübingen",
+            "Ulm"
+        ]
+    },
+    {
+        "name": "Ravensburg",
+        "connections": [
+            "Friedrichshafen",
+            "Ulm",
+            "Sigmaringen"
+        ]
+    },
+    {
+        "name": "Memmingen",
+        "connections": [
+            "Ulm",
+            "Kempten",
+            "Lindau",
+            "Landsberg"
+        ]
+    },
+    {
+        "name": "Kempten",
+        "connections": [
+            "Memmingen",
+            "Füssen",
+            "Lindau",
+            "Landsberg"
+        ]
+    },
+    {
+        "name": "Landsberg",
+        "connections": [
+            "Füssen",
+            "Kempten",
+            "Memmingen",
+            "Augsburg",
+            "München"
+        ]
+    },
+    {
+        "name": "München",
+        "connections": [
+            "Garmisch-Partenkirchen",
+            "BadTölz",
+            "Rosenheim",
+            "Mühldorf",
+            "Landshut",
+            "Regensburg",
+            "Ingolstadt",
+            "Augsburg",
+            "Landsberg"
+        ]
+    },
+    {
+        "name": "Mühldorf",
+        "connections": [
+            "München",
+            "Simbach"
+        ]
+    },
+    {
+        "name": "Landshut",
+        "connections": [
+            "München",
+            "Straubing",
+            "Regensburg",
+            "Simbach"
+        ]
+    },
+    {
+        "name": "Straubing",
+        "connections": [
+            "Passau",
+            "Cham",
+            "Landshut",
+            "Regensburg"
+        ]
+    },
+    {
+        "name": "Regensburg",
+        "connections": [
+            "München",
+            "Landshut",
+            "Straubing",
+            "Ingolstadt",
+            "Nürnberg",
+            "Weiden"
+        ]
+    },
+    {
+        "name": "Nürnberg",
+        "connections": [
+            "Bayreuth",
+            "Weiden",
+            "Regensburg",
+            "Ingolstadt",
+            "Weissenburg",
+            "Ansbach",
+            "Würzburg",
+            "Bamberg"
+        ]
+    },
+    {
+        "name": "Bamberg",
+        "connections": [
+            "Nürnberg",
+            "Bayreuth",
+            "Hof",
+            "Coburg",
+            "Meiningen",
+            "Fulda",
+            "Schweinfurt"
+        ]
+    },
+    {
+        "name": "Coburg",
+        "connections": [
+            "Saalfeld",
+            "Meiningen",
+            "Bamberg"
+        ]
+    },
+    {
+        "name": "Schweinfurt",
+        "connections": [
+            "Bamberg",
+            "Fulda",
+            "Meiningen",
+            "Würzburg"
+        ]
+    },
+    {
+        "name": "Aschaffenburg",
+        "connections": [
+            "Würzburg",
+            "Offenbach",
+            "Darmstadt"
+        ]
+    },
+    {
+        "name": "Offenbach",
+        "connections": [
+            "Fulda",
+            "Gießen",
+            "Frankfurt",
+            "Aschaffenburg"
+        ]
+    },
+    {
+        "name": "Frankfurt",
+        "connections": [
+            "Limburg",
+            "Wiesbaden",
+            "Darmstadt",
+            "Offenbach"
+        ]
+    },
+    {
+        "name": "Darmstadt",
+        "connections": [
+            "Frankfurt",
+            "Aschaffenburg",
+            "Mannheim"
+        ]
+    },
+    {
+        "name": "Würzburg",
+        "connections": [
+            "Fulda",
+            "Schweinfurt",
+            "Nürnberg",
+            "Ansbach",
+            "Schwäb.Hall",
+            "Heilbronn",
+            "Heidelberg",
+            "Aschaffenburg"
+        ]
+    },
+    {
+        "name": "Schwäb.Hall",
+        "connections": [
+            "Würzburg",
+            "Crailsheim",
+            "Aalen",
+            "Stuttgart",
+            "Heilbronn"
+        ]
+    },
+    {
+        "name": "Göppingen",
+        "connections": [
+            "Esslingen",
+            "Ulm",
+            "Aalen"
+        ]
+    },
+    {
+        "name": "Ulm",
+        "connections": [
+            "Göppingen",
+            "Donauwörth",
+            "Augsburg",
+            "Memmingen",
+            "Ravensburg",
+            "Sigmaringen",
+            "Reutlingen"
+        ]
+    },
+    {
+        "name": "Augsburg",
+        "connections": [
+            "München",
+            "Landsberg",
+            "Donauwörth",
+            "Ulm"
+        ]
+    },
+    {
+        "name": "Donauwörth",
+        "connections": [
+            "Weissenburg",
+            "Aalen",
+            "Ingolstadt",
+            "Augsburg",
+            "Ulm"
+        ]
+    },
+    {
+        "name": "Ingolstadt",
+        "connections": [
+            "München",
+            "Regensburg",
+            "Nürnberg",
+            "Weissenburg",
+            "Donauwörth"
+        ]
+    },
+    {
+        "name": "Weissenburg",
+        "connections": [
+            "Nürnberg",
+            "Ingolstadt",
+            "Donauwörth",
+            "Ansbach"
+        ]
+    },
+    {
+        "name": "Ansbach",
+        "connections": [
+            "Würzburg",
+            "Nürnberg",
+            "Weissenburg",
+            "Crailsheim",
+            "Rothenburg"
+        ]
+    },
+    {
+        "name": "Rothenburg",
+        "connections": [
+            "Ansbach",
+            "Crailsheim"
+        ]
+    },
+    {
+        "name": "Crailsheim",
+        "connections": [
+            "Ansbach",
+            "Aalen",
+            "Rothenburg",
+            "Schwäb.Hall"
+        ]
+    },
+    {
+        "name": "Aalen",
+        "connections": [
+            "Crailsheim",
+            "Schwäb.Hall",
+            "Göppingen",
+            "Donauwörth"
+        ]
+    }
+]
