@@ -46,7 +46,10 @@ def between(start, target): # e.g. start = 'Kiel'
         current = copy.copy(temp_current)
 
 
-von = input('Von: ')
-nach = input('Nach: ')
-weg = between(von,nach)
-print(weg,len(weg))
+home_town = input('Heimatstadt: ')
+visit_towns = input('Zu besuchende Städt (trennen durch Kommata: ').replace(' ','').split(',')
+
+possible_combinations = []
+
+for town in visit_town:
+    pass

@@ -16,3 +16,14 @@ with open('map.json','r') as f:
 
 # print(sum/len(map))
 
+# town with max connections
+# max = 0
+# max_town = []
+# for town in map:
+#     if len(town['connections']) > max:
+#         max = len(town['connections'])
+#         max_town = [town['name']]
+#     elif len(town['connections']) == max:
+#         max_town.append(town['name'])
+
+# print(max, max_town)
