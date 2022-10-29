@@ -45,11 +45,14 @@ def between(start, target): # e.g. start = 'Kiel'
         # after the loop is done, overwrite the current current with the new temp_current
         current = copy.copy(temp_current)
 
+from_town = input('Von: ')
+to_town = input('Nach: ')
+print(between(from_town,to_town))
 
-home_town = input('Heimatstadt: ')
-visit_towns = input('Zu besuchende Städt (trennen durch Kommata: ').replace(' ','').split(',')
+# home_town = input('Heimatstadt: ')
+# visit_towns = input('Zu besuchende Städt (trennen durch Kommata: ').replace(' ','').split(',')
 
-possible_combinations = []
+# possible_combinations = []
 
-for town in visit_town:
-    pass
+# for town in visit_town:
+#     pass
